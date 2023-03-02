@@ -1,28 +1,28 @@
 package day01_variables;
 
 public class Variables {
-    //Java'da değişkenler (variables), programlarda geçici verileri saklamak için kullanılan adlandırılmış bellek alanlarıdır.
-    // Java, değişkenlerin belirli bir türü olduğu bir tip güvenli programlama dilidir.
-    // Java'da, değişkenlerin belirli bir türü olması, bu değişkenin ne tür bir veri saklayacağını belirler.
-    //Java'da değişkenler şu şekilde tanımlanır:
+    //In Java, variables are named memory locations used to store temporary data in programs.
+    // Java is a type-safe programming language, meaning that variables have a specific type, which determines what type of data the variable will hold.
+    // In Java, variables are defined as follows
 
     //      -->      data_type variable_name;
 
-    //Bu örnek kodda, "data_type" değişkenin türünü belirtir ve "variable_name" değişkenin adını belirtir.
-    // Aşağıda, farklı veri türlerine örnekler verilmiştir:
+    //In this example code, 'data_type' specifies the type of the variable, and 'variable_name' specifies the name of the variable.
+    // Below are examples of different data types:
 
-    //Tam sayılar için değişken tanımlama:
+    //Variable declaration for integers:
     int number;
 
-    //Ondalıklı sayılar için değişken tanımlama:
+    //Variable declaration for decimals:
     double decimalNumber;
 
-    //Karakterler için değişken tanımlama:
+    //Variable declaration for characters:
     char letter;
 
-    //Metinler için değişken tanımlama:
+    //Variable declaration for strings:
+
     String word;
 
-    //Boolean (mantıksal) veriler için değişken tanımlama:
+    //Variable declaration for boolean data:
     boolean isTrue;
 }
