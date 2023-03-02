@@ -18,12 +18,12 @@ public class Strings {
     //For example:
 
 
-    String name ="John";
+    String name ="Eylül";
 
     // String objects can also be created using the new keyword.
     // For example:
 
-    String surName = new String("Doe");
+    String surName = new String("Can");
 
     //In Java, String objects have many different methods.
     //These methods can be used to change the content of the String object, extract substrings, or split the String into an array of characters.
