@@ -25,4 +25,5 @@ public class Variables {
 
     //Variable declaration for boolean data:
     boolean isTrue;
+
 }
